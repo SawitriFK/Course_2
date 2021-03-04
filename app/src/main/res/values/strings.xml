@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Course_2</string>
+    <string name="dummy_photo">6 photo</string>
+    <string name="dummy_value">Rp. 20.000,00</string>
+    <string name="stock">dhha jnda jda kna na dad adrftgyhujkl jsdhkjsd jdsklakjlk;lkjh vdhasd jdbsad jdnasd esdrftgyhui jdis sjdka jdhakdj kdia kdiajd dakdakajdom kndkajdowuu jaayayyyaalLcccoovovo</string>
+    <string name="specification">Specification</string>
+    <string name="display">Display</string>
+    <string name="content_spech_display">5.0 inches\n FHD AMOLED at 441ppi \n 2.5d Corning </string>
+    <string name="size">Size</string>
+    <string name="content_spech_size">5.6 x 2.7 x 0.2 ~ 0.3 inches 143.8 x 69,5 x 7.3 ~ 8.5 mm</string>
+    <string name="battery">Battery</string>
+    <string name="content_spech_battery">2.770 mAh battery \n Standby time (LTE):up to 19 days \n Talk time (3g/WCDMA): up to 26 hours \n Internet use time (Wi-Fi):up to 13 hours \n Video playback: up to 13 hours</string>
+    <string name="buy">Buy</string>
+
+    <string name="mix_link">some url is www.google.com phone 082185016899 another url https://github.com/sawitrifk email sawitrifinak@gmail.com map address New York, NY   34 Maint St New York, NY
+    </string>
+
+    <string name="txtCredits">www.google.com</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="success">Success</string>
+</resources>
